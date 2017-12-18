@@ -1,1 +1,2 @@
 programador 1: Jonathan
+programador 2: Gonzalo
